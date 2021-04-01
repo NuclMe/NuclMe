@@ -1,9 +1,9 @@
 ## Language and Tools 💼
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=appveyor=JavaScript)
-![React.js](https://img.shields.io/badge/-React.js-41b883?style=flat-square&logo=appveyor=React.js)
-![Python](https://img.shields.io/badge/-Python-41b883?style=flat-square&logo=appveyor=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-41b883?style=flat-square&logo=appveyor=TypeScript)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=appveyor=React.js)
+![Python](https://img.shields.io/badge/-Python-FFD644?style=flat-square&logo=appveyor=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2F74C0?style=flat-square&logo=appveyor=TypeScript)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=appveyor=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=appveyor=CSS)
