@@ -1,16 +1,13 @@
-### Hi there 👋
+## Language and Tools 💼
 
-<!--
-**NuclMe/NuclMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=appveyor=JavaScript)
+![React.js](https://img.shields.io/badge/-React.js-41b883?style=flat-square&logo=appveyor=React.js)
+![Python](https://img.shields.io/badge/-Python-41b883?style=flat-square&logo=appveyor=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-41b883?style=flat-square&logo=appveyor=TypeScript)
 
-Here are some ideas to get you started:
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=appveyor=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=appveyor=CSS)
+![SCSS](https://img.shields.io/badge/-SCSS-violet?style=flat-square&logo=appveyor=SCSS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuclMe&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuclMe&layout=compact&theme=highcontrast)](https://github.com/NuclMe/github-readme-stats)
