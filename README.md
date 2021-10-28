@@ -10,5 +10,4 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-violet?style=flat-square&logo=appveyor=SCSS)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuclMe&show_icons=true&theme=highcontrast)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuclMe&layout=compact&theme=highcontrast)](https://github.com/NuclMe/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuclMe)](https://github.com/NuclMe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuclMe&layout=compact&theme=highcontrast)](https://github.com/NuclMe/github-readme-stats)
