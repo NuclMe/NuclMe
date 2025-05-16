@@ -6,7 +6,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2F74C0?style=flat-square&logo=appveyor=TypeScript)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=appveyor=HTML5)
